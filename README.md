@@ -2,13 +2,12 @@
 A repository for default community health files.
 To make specific documents for each of the repositoriest put the at folder:
 repo-name/docs/.github
+___
 
 # Completed:
-====================
 - CODE_OF_CONDUCT.md
 
 # Missing:
-====================
 - CONTRIBUTING.md
 - FUNDING.yml
 - ISSUE_TEMPLATE
