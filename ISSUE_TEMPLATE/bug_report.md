@@ -1,3 +1,10 @@
+---
+name: Bug report
+about: Use this template for reporting bugs.
+title: "[DATE]: [BUG NAME]"
+labels: Bug report, needs triage
+assignees: juanmanuelgg
+---
 **Describe the bug**
 A clear and concise description of what the bug is.
 
