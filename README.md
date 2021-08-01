@@ -7,11 +7,11 @@ ___
 # Completed:
 - CODE_OF_CONDUCT.md
 - FUNDING.yml
-- Folder ISSUE_TEMPLATE ... and files
+- Folder ISSUE_TEMPLATE ... and the templates
+- ISSUE_TEMPLATE/config.yml
+- Folder PULL_REQUEST_TEMPLATE/pull_request_template.md
+- SECURITY.md
 
 # Missing:
 - CONTRIBUTING.md
-- Folder PULL_REQUEST_TEMPLATE/ ... and files (eg.pull_request_template.md)
-- config.yml
-- SECURITY.md
 - SUPPORT.md
